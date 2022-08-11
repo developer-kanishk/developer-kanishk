@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developer-kanishk
+- 👋 Hi, I’m @developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on exciting projects that would make things easier.
